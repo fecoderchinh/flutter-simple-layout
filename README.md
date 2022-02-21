@@ -1,6 +1,6 @@
 # layout_test
 
-A new Flutter project.
+A new Flutter simple project about testing layout.
 
 ## Getting Started
 
